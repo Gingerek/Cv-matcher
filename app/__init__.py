@@ -1,0 +1,1 @@
+"""Job Match Assistant package."""
